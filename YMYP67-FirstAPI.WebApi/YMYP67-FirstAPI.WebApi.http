@@ -1,0 +1,6 @@
+@YMYP67_FirstAPI.WebApi_HostAddress = http://localhost:5039
+
+GET {{YMYP67_FirstAPI.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
